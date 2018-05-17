@@ -1,0 +1,16 @@
+{
+  "name": "mail-templater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/watch-http-server/bin/http-server -s"
+  },
+  "keywords": [],
+  "author": "Roberto Gripa Filho | roberto@conpass.io",
+  "license": "ISC",
+  "dependencies": {
+    "watch-http-server": "^0.7.6"
+  }
+}
